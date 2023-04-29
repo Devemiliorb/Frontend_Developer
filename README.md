@@ -10,29 +10,29 @@ Aquí es donde compartiré los recursos que estoy utilizando, los proyectos en l
 
 ## Mi ruta de aprendizaje incluye:
 
-- Internet
-- HTML
-- CSS
-- JavaScript
-- Version Control Systems
-- Web Security Knowledge
-- Package Managers
-- CSS Architecture
-- CSS Preprocessors
-- Build Tools
-- Pick a Framework
-- Modern CSS
-- CSS frameworks
-- Testing your apps
-- Authentication Strategies
-- Web Components
-- Type Checkers
-- Progressive Web Apps
-- Server-side rendering
-- Static Site Generators
-- Graphql
-- Mobile applications
-- Desktop Applications in JavaScript
+- [Internet](#)
+- [HTML](#)
+- [CSS](#)
+- [JavaScript](#)
+- [Version Control Systems](#)
+- [Web Security Knowledge](#)
+- [Package Managers](#)
+- [CSS Architecture](#)
+- [CSS Preprocessors](#)
+- [Build Tools](#)
+- [Pick a Framework](#)
+- [Modern CSS](#)
+- [CSS frameworks](#)
+- [Testing your apps](#)
+- [Authentication Strategies](#)
+- [Web Components](#)
+- [Type Checkers](#)
+- [Progressive Web Apps](#)
+- [Server-side rendering](#)
+- [Static Site Generators](#)
+- [Graphql](#)
+- [Mobile applications](#)
+- [Desktop Applications in JavaScript](#)
 
  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
 

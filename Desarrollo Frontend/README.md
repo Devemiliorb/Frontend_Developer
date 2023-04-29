@@ -53,5 +53,5 @@ Vale la pena mirar una variedad de recursos, incluidas encuestas salariales y bo
 
 
 <div style="text-align:center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
+  <p>Emilio Rodriguez</p>
 </div>

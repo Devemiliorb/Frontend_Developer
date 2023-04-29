@@ -51,7 +51,4 @@ Vale la pena mirar una variedad de recursos, incluidas encuestas salariales y bo
 
 [Volver al índice](#desarrollo-frontend)
 
-
-<div style="text-align:center">
-  <p>Emilio Rodriguez</p>
-</div>
+[_Emilio Rodriguez_](https://github.com/Devemiliorb)

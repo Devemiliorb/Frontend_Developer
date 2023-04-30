@@ -2,16 +2,16 @@
 
 * [_¿Qué es el Desarrollo Frontend?_](#qué-es-el-desarrollo-frontend)
 
-* [_¿Cuáles son los títulos de trabajo de un desarrollador frontend?_](#cuáles-son-los-títulos-de-trabajo-de-un-desarrollador-frontend)
+* [_¿Cuáles son los títulos de trabajo de un desarrollador frontend?_](#cuales-son-los-titulos-de-trabajo-de-un-desarrollador-frontend)
 
-* [_¿Comó convertirse en un desarrollador frontend?_](#comó-convertirse-en-un-desarrollador-frontend)
+* [_¿Comó convertirse en un desarrollador frontend?_](#como-convertirse-en-un-desarrollador-frontend)
 
-* [_¿Cuánto tiempo lleva convertirse en un desarrollador frontend?_](#cuánto-tiempo-lleva-convertirse-en-un-desarrollador-frontend)
+* [_¿Cuánto tiempo lleva convertirse en un desarrollador frontend?_](#cuanto-tiempo-lleva-convertirse-en-un-desarrollador-frontend)
 
 * [_¿Cuales son los salarios de un desarrollador frontend?_](#cuales-son-los-salarios-de-un-desarrollador-frontend)
 
 
-## ¿Qué es el Desarrollo Frontend?
+## ¿Que es el Desarrollo Frontend?
 
 
 El desarrollo front-end es el desarrollo de elementos visuales e interactivos de un sitio web con los que los usuarios interactúan directamente. Es una combinación de HTML, CSS y JavaScript , donde HTML proporciona la estructura, CSS el estilo y el diseño, y JavaScript el comportamiento dinámico y la interactividad.
@@ -20,7 +20,7 @@ Como desarrollador front-end, será responsable de crear la interfaz de usuario 
 
 [Volver al índice](#desarrollo-frontend)
 
-## ¿Cuáles son los títulos de trabajo de un desarrollador frontend?
+## ¿Cuales son los titulos de trabajo de un desarrollador frontend?
 
 Los desarrolladores front-end también se conocen como ingenieros front-end, desarrolladores web front-end, desarrolladores de JavaScript, desarrolladores de HTML/CSS, diseñadores web front-end y arquitectos web front-end.
 
@@ -28,13 +28,13 @@ Cada uno de estos roles abarca principalmente las mismas habilidades de desarrol
 
 [Volver al índice](#desarrollo-frontend)
 
-## ¿Comó convertirse en un desarrollador frontend?
+## ¿Como convertirse en un desarrollador frontend?
 
 Comienza aprendiendo HTML y CSS; no espere a dominarlos por completo y comience a construir proyectos simples lo antes posible. Podría intentar reconstruir la interfaz de sus sitios web favoritos usando HTML y CSS para empezar. Haz tantos de estos proyectos como puedas mientras sigues aprendiendo. Una vez que se sienta cómodo con HTML y CSS, comience a aprender algo de JavaScript básico (manipulación de DOM, realización de llamadas AJAX, etc.) y aprenda a agregar interactividad a sus sitios web. Mientras lo hace, aprenda algunos conceptos básicos de Git y GitHub. En este punto, debería poder obtener un trabajo de desarrollo frontend de nivel de entrada. Siga revisando esta hoja de ruta e intente llenar los vacíos en su conocimiento.
 
 [Volver al índice](#desarrollo-frontend)
 
-## ¿Cuánto tiempo lleva convertirse en un desarrollador frontend?
+## ¿Cuanto tiempo lleva convertirse en un desarrollador frontend?
 
 La cantidad de tiempo que lleva convertirse en desarrollador frontend puede variar según varios factores, como su ritmo de aprendizaje, la experiencia previa y la cantidad de tiempo que puede dedicar al aprendizaje.
 

@@ -37,3 +37,5 @@ Aquí es donde compartiré los recursos que estoy utilizando, los proyectos en l
  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
 
 _¡Gracias por seguir mi camino hacia convertirme en un desarrollador frontend completo!_
+
+[_Emilio Rodriguez_](https://github.com/Devemiliorb)

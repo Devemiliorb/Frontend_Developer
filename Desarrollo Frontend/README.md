@@ -51,4 +51,6 @@ Vale la pena mirar una variedad de recursos, incluidas encuestas salariales y bo
 
 [Volver al índice](#desarrollo-frontend)
 
+[Frontend Developer](https://github.com/Devemiliorb/Frontend_Developer)
+
 [_Emilio Rodriguez_](https://github.com/Devemiliorb)

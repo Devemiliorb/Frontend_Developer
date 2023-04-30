@@ -1,15 +1,16 @@
 # Desarrollo Frontend
 
-* [_¿Qué es el Desarrollo Frontend?_](#¿qué-es-el-desarrollo-frontend)
+* [_¿Qué es el Desarrollo Frontend?_](#qué-es-el-desarrollo-frontend)
 
-* [_¿Cuáles son los títulos de trabajo de un desarrollador frontend?_](#¿cuáles-son-los-títulos-de-trabajo-de-un-desarrollador-frontend)
+* [_¿Cuáles son los títulos de trabajo de un desarrollador frontend?_](#cuáles-son-los-títulos-de-trabajo-de-un-desarrollador-frontend)
 
-* [_¿Comó convertirse en un desarrollador frontend?_](#¿comó-convertirse-en-un-desarrollador-frontend)
+* [_¿Comó convertirse en un desarrollador frontend?_](#comó-convertirse-en-un-desarrollador-frontend)
 
-* [_¿Cuánto tiempo lleva convertirse en un desarrollador frontend?_](#¿cuánto-tiempo-lleva-convertirse-en-un-desarrollador-frontend)
+* [_¿Cuánto tiempo lleva convertirse en un desarrollador frontend?_](#cuánto-tiempo-lleva-convertirse-en-un-desarrollador-frontend)
 
-* [_¿Cuales son los salarios de un desarrollador frontend?_](#¿cuales-son-los-salarios-de-un-desarrollador-frontend)
-* [_¿Cuales son los salarios de un desarrollador frontend?_](#_¿Cuales son los salarios de un desarrollador frontend?_)
+* [_¿Cuales son los salarios de un desarrollador frontend?_](#cuales-son-los-salarios-de-un-desarrollador-frontend)
+* 
+* [_¿Cuales son los salarios de un desarrollador frontend?_](#Cuales son los salarios de un desarrollador frontend)
 
 ## ¿Qué es el Desarrollo Frontend?
 

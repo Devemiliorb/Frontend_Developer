@@ -9,8 +9,7 @@
 * [_¿Cuánto tiempo lleva convertirse en un desarrollador frontend?_](#cuánto-tiempo-lleva-convertirse-en-un-desarrollador-frontend)
 
 * [_¿Cuales son los salarios de un desarrollador frontend?_](#cuales-son-los-salarios-de-un-desarrollador-frontend)
-* 
-* [_¿Cuales son los salarios de un desarrollador frontend?_](#Cuales son los salarios de un desarrollador frontend)
+
 
 ## ¿Qué es el Desarrollo Frontend?
 

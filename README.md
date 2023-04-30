@@ -6,7 +6,7 @@ Mi objetivo es aprender y dominar las habilidades necesarias para crear interfac
 
 Aquí es donde compartiré los recursos que estoy utilizando, los proyectos en los que estoy trabajando y cualquier cosa que esté aprendiendo en mi camino. Espero que esto no solo me ayude a mantener un registro de mi progreso, sino que también inspire a otros que estén en la misma ruta de aprendizaje.
 
-[Preguntas frecuentes](https://github.com/Devemiliorb/Frontend_Developer/tree/main/Desarrollo%20Frontend)
+[Preguntas frecuentes](https://github.com/Devemiliorb/Frontend_Developer/blob/main/Preguntas/README.md)
 
 ## Mi ruta de aprendizaje incluye:
 
